@@ -21,5 +21,6 @@ To execute this script, ensure the following Python packages are installed withi
 ### Execution Protocol
     Clone or download the script as tiny.py.
 
-    Initialize the execution environment from your terminal:
+Initialize the execution environment from your terminal:
 `python tiny.py`
+3. Upon successful weight instantiation, interact with the model via the interactive prompt. Terminate the session by inputting exit or quit.
