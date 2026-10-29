@@ -16,6 +16,7 @@ The script demonstrates how to:
 - Apply the tokenizer's chat template for message formatting
 - Generate output with top-p sampling and temperature control
 - Interact with the model through a basic terminal prompt
+![Screenshot window](assets/diagram.png)
 
 ## Key implementation details
 
