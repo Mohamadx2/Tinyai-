@@ -19,8 +19,9 @@ The underlying system relies on the Hugging Face transformers and PyTorch librar
 To execute this script, ensure the following Python packages are installed within your environment:
 `pip install torch transformers`
 ### Execution Protocol
-    Clone or download the script as tiny.py.
+1. Clone or download the script as tiny.py.
 
-Initialize the execution environment from your terminal:
+2. Initialize the execution environment from your terminal:
 `python tiny.py`
+
 3. Upon successful weight instantiation, interact with the model via the interactive prompt. Terminate the session by inputting exit or quit.
